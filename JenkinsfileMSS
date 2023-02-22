@@ -1,3 +1,4 @@
+/*
 node{
 {
 
@@ -87,3 +88,4 @@ stage('DeploytoTomcat'){
  
  
 }
+*/
