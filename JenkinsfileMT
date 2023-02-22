@@ -1,3 +1,4 @@
+/*
 node
 {
  properties([
@@ -59,3 +60,4 @@ node
   */
   
 }
+*/
